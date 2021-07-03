@@ -1,5 +1,5 @@
 ### Publication
-Das, B., Majumder, M. Factual open cloze question generation for assessment of learner’s knowledge 
+Das, Bidyut; Majumder, Mukta. Factual open cloze question generation for assessment of learner’s knowledge 
 International Journal of Educational Technology in Higher Education (2017). Springer
 [Link to The Paper](https://doi.org/10.1186/s41239-017-0060-3)
 
